@@ -1,0 +1,34 @@
+img{
+    height: 120px;
+    width: 120px;
+}
+#name{
+  margin: 1px;
+}
+#descrip{
+margin: 1px;
+}
+strong{
+    color: #AFAFAF;
+}
+
+table{
+   
+    padding: 1px;
+    margin: 3px;
+   
+
+
+}
+div>table{
+    display: inline;
+ 
+}
+
+html,body{
+    min-height: 150vh;
+}
+tr{
+    padding: 10px;
+}
+
